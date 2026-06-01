@@ -11,7 +11,7 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
 ```
 
-<p><i>Professional. Curious. Always building.</i></p>
+<p><i>Software Developer</i></p>
 
 </div>
 
